@@ -1,0 +1,6 @@
+make suopencv-python==4.7.0.68
+mediapipe==0.10.5
+scikit-learn==1.2.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+pyttsx3>=2.90
